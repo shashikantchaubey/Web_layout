@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    
+  }
+  header{
+    
+    margin:0px 0px 5px 5px;
+    display: flex;
+    color:white;
+    
+  }
+  .header{
+    background-color:black;
+  /*    background-image: linear-gradient(to right,cyan,lightgreen , lightyellow,skyblue,lightpink); */
+  /*   height:3rem; */
+  /*   display:flex; */
+  /*   justify-content:space-evenly; */
+  /*   justify-content:flex-end; */
+  }
+  div{
+    display:flex;
+  /*   flex-direction:row; */
+    justify-content:center;
+    padding:10px;
+    padding-left:550px;
+  /*   background-color: red; */
+  /*   width:100px; */
+  }
+  div nav{
+    padding-right:50px;
+  /*   justify-content:; */
+    font-size:1.4rem;
+    
+  }
+  a:link{
+    color:white;
+  }
+  a:visited{
+    color:white;
+  }
+  a:hover{
+    color:lightpink;
+  }
+  a:active{
+    color:cyan;
+  }
+ 
+  
